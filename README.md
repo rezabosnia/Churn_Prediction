@@ -1,2 +1,2 @@
-# Clustering_Jakarta
-Clustering neighborhoods in Jakarta to determine the best location to start a Cloud Kitchen Business
+# Churn Prediction
+A model to predict the probability of customer churn based on customer behaviour data
